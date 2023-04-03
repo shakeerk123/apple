@@ -172,13 +172,13 @@ i{
     padding-top: 20px;
 }
 #box1 {
-    background-image: url('/hero__ecv967jz1y82_large.jpg');
+    background-image: url('hero__ecv967jz1y82_large.jpg');
     
     
 }
 
 #box2 {
-    background-image: url('/hero_intro_endframe__e6khcva4hkeq_large.jpg');
+    background-image: url('hero_intro_endframe__e6khcva4hkeq_large.jpg');
     color: black;
 }
 
@@ -191,7 +191,7 @@ i{
 }
 
 .image1{
-    background: url(/promo_ipad__fioegapg12qi_large.jpg);
+    background: url(promo_ipad__fioegapg12qi_large.jpg);
     height: 550px;
     object-fit: fill;
     background-repeat: no-repeat;
@@ -200,7 +200,7 @@ i{
     margin-top: 15px;
 }
 .image2{
-    background: url(/promo_mbp_preorder__faqgyfz56umq_large.jpg);
+    background: url(promo_mbp_preorder__faqgyfz56umq_large.jpg);
     height: 550px;
     object-fit: fill;
     background-repeat: no-repeat;
@@ -210,7 +210,7 @@ i{
 
 }
     .image11{
-        background: url(/promo_apple_watch_ultra__gnsqulvdc4a6_large.jpg);
+        background: url(promo_apple_watch_ultra__gnsqulvdc4a6_large.jpg);
         height: 550px;
         object-fit: fill;
         background-repeat: no-repeat;
@@ -219,7 +219,7 @@ i{
         margin-top: 15px;
     }
     .image22{
-        background: url(/promo_ipadpro__ch217v9v7no2_large.jpg);
+        background: url(promo_ipadpro__ch217v9v7no2_large.jpg);
         height: 550px;
         object-fit: fill;
         background-repeat: no-repeat;
